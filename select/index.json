@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Winter Wish",
+  "base_artist": "GENERATIONS from EXILE TRIBE",
+  "createdAt": "2025-12-07T12:04:04.909421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Winter Wish",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/01_Winter_Wish_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Winter Wish",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/02_Winter_Wish_GENERATIONS_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "winter wish",
+      "artist": "irene",
+      "has_synced": true,
+      "path": "select/03_winter_wish_irene.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Winter Wish",
+      "artist": "Yonekura Chihiro",
+      "has_synced": true,
+      "path": "select/04_Winter_Wish_Yonekura_Chihiro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Winter Wish",
+      "artist": "IRENE",
+      "has_synced": true,
+      "path": "select/05_Winter_Wish_IRENE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Silent Eve - Winter Wish",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/06_Silent_Eve_-_Winter_Wish_米倉千尋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Winter Wish",
+      "artist": "GENERATIONS",
+      "has_synced": false,
+      "path": "select/pl_01_Winter_Wish_GENERATIONS.txt"
+    }
+  ]
+}
